@@ -1,16 +1,13 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "hk9099",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "3.1.0",
   "type": "module",
   "license": "MIT",
-  "author": "arifszn",
+  "author": "hk9099",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
-  },
-  "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": "https://github.com/hk9099/harshkhokhani.github.io.git"
   },
   "scripts": {
     "dev": "vite",
